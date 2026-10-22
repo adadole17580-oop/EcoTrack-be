@@ -2,3 +2,9 @@
 /shelf/
 /.idea/workspace.xml
 .env
+
+
+node_modules/
+.env
+.env.*
+!.env.example
